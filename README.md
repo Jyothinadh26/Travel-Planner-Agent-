@@ -16,7 +16,7 @@ IBM CLOUD SERVICES USED
 ◾IBM Cloud Object Storage
 ◾IBM Cloud service
 IBM Cloud Watsonx.ai runtime.
-[06/08, 10:41 am] Joe💫: WOW FACTORS
+WOW FACTORS
 This AI Travel Planner Agent revolutionizes the way trips are planned by automating destination selection, itinerary creation, and budget estimation. It significantly reduces the effort and time required for travel planning while enhancing the overall experience with personalized recommendations. Users receive ready-to-use itineraries, travel tips, and activity suggestions without browsing multiple platforms.
 Unique Features:
 ◾Personalized Itineraries: Generates day-wise travel plans based on destination, duration, and budget
